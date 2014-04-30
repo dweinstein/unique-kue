@@ -24,8 +24,7 @@
     "url": "https://github.com/saintmac/unique-kue/issues"
   },
   "dependencies": {
-    "redis": "~0.8.6",
-    "bluebird": "^1.2.4"
+    "redis": "~0.8.6"
   },
   "devDependencies": {
     "chai": "~1.8.1",
