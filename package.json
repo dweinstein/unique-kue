@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saintmac/unique-kue.git"
+    "url": "https://github.com/dweinstein/unique-kue.git"
   },
   "keywords": [
     "unique",
@@ -24,7 +24,8 @@
     "url": "https://github.com/saintmac/unique-kue/issues"
   },
   "dependencies": {
-    "redis": "~0.8.6"
+    "redis": "~0.8.6",
+    "bluebird": "^1.2.4"
   },
   "devDependencies": {
     "chai": "~1.8.1",
